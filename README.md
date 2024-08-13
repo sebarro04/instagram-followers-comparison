@@ -1,1 +1,1 @@
-# instagram-followers-comparison
+# Instagram Followers Comparison
